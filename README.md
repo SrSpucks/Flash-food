@@ -22,3 +22,8 @@
       -FastCharger Added
     °inproviments on app Design
     Download - https://github.com/SrSpucks/Flash-food/raw/main/FastSnak%204.0.apk
+    
+   # Update 5.0
+     °Fix bugs
+      -infinite money glitch
+     Download - https://github.com/SrSpucks/Flash-food/raw/main/FastSnak%205.0.apk
