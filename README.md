@@ -13,3 +13,12 @@
     °added storage System
     °inproviments on the app
     Download - https://github.com/SrSpucks/Flash-food/blob/Flash-3.0/FastSnak%203.0.apk
+
+  # Update 4.0
+    °Fix bugs
+      -Fixed the assitence button
+    °added GiftStore
+      -Fone Added
+      -FastCharger Added
+    °inproviments on app Design
+    Download - https://github.com/SrSpucks/Flash-food/raw/main/FastSnak%204.0.apk
