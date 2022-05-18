@@ -27,3 +27,9 @@
      °Fix bugs
       -infinite money glitch
      Download - https://github.com/SrSpucks/Flash-food/raw/main/FastSnak%205.0.apk
+
+  # Update 6.0
+    °Fix Bugs
+    °Started a responsive system about firedatabase
+    °inproviments on the app
+    Download - https://github.com/SrSpucks/Flash-food/raw/main/FastSnak3_0.apk
